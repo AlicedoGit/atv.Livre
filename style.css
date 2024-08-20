@@ -1,0 +1,96 @@
+.pirata-one-regular {
+    font-family: "Pirata One", system-ui;
+    font-weight: 50;
+    font-size: 100px;
+    font-style: normal;
+    color: aliceblue;
+}
+
+h1,h2 {
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+body {
+    background-image: url(fotos/plano-de-fundo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.foto {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    border-radius: 50%;
+}
+
+.video {
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 150px;
+    max-width: 1000px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+}
+
+.banner {
+    margin-top: -20px;
+    margin-bottom: 250px;
+    padding: 20px;
+    margin-left: 450px;
+    max-width: 100px;
+    max-height: 50px;
+}
+
+.alice {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+img {
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+a {
+    color: white;
+}
+
+.conteiner {
+    margin-left: 30px;
+    margin-top: 0%;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+}
+.links{
+    color: aliceblue;
+    margin-left: 610px;
+}
+h3{
+    font-family: "Pirata One", system-ui;
+    color: aliceblue;
+    font-size: 30px;
+}
+.contato{
+    text-align: center;
+    font-family: "Pirata One", system-ui;
+    margin-top: 1120px;
+    font-weight: 30;
+    color: aliceblue;
+
+}
+
+.contato h2 {
+    font-family: "Pirata One", system-ui;
+    font-weight: 50;
+    font-size: 100px;
+}
